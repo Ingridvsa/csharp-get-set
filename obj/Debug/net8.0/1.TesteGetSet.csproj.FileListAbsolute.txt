@@ -1,0 +1,14 @@
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\bin\Debug\net8.0\1.TesteGetSet.exe
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\bin\Debug\net8.0\1.TesteGetSet.deps.json
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\bin\Debug\net8.0\1.TesteGetSet.runtimeconfig.json
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\bin\Debug\net8.0\1.TesteGetSet.dll
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\bin\Debug\net8.0\1.TesteGetSet.pdb
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\1.TesteGetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\1.TesteGetSet.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\1.TesteGetSet.AssemblyInfo.cs
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\1.TesteGetSet.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\1.TesteGetSet.dll
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\refint\1.TesteGetSet.dll
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\1.TesteGetSet.pdb
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\1.TesteGetSet.genruntimeconfig.cache
+C:\Users\POSITIVO\OneDrive\Documentos\Arquivos do C#\codigos\1.TesteGetSet\obj\Debug\net8.0\ref\1.TesteGetSet.dll
